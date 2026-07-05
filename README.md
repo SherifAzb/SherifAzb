@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e62429,100:1a1a2e&height=220&section=header&text=SHERIF%20AYMAN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20CS%20%26%20AI%20Student%20%7C%20GPA%203.77%2F4.00&descAlignY=55&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:e62429,100:1a1a2e&amp;height=220&amp;section=header&amp;text=SHERIF%20AYMAN&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Data%20Analyst%20%7C%20CS%20%26%20AI%20Student%20%7C%20GPA%203.77%2F4.00&amp;descAlignY=55&amp;descSize=17"/>
 
 <a href="https://github.com/SherifAzb">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=E62429&center=true&vCenter=true&width=650&lines=With+great+data+comes+great+responsibility;Turning+chaos+into+clarity%2C+one+dashboard+at+a+time;Python+%7C+Power+BI+%7C+DAX+%7C+Star+Schema;Built+an+RFM+model+that+actually+segments+customers;Always+learning.+Always+leveling+up." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;pause=1000&amp;color=E62429&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=With+great+data+comes+great+responsibility;Turning+chaos+into+clarity%2C+one+dashboard+at+a+time;Python+%7C+Power+BI+%7C+DAX+%7C+Star+Schema;Built+an+RFM+model+that+actually+segments+customers;Always+learning.+Always+leveling+up." alt="Typing SVG" />
 </a>
 
 <br>
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:e62429&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1a1a2e,100:e62429&amp;height=3&amp;section=header"/>
 
 ### 🧪 Origin Story
 
@@ -33,13 +33,13 @@ mission: Make data make sense
 languages: Arabic (Native) · English (B2)
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:e62429&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1a1a2e,100:e62429&amp;height=3&amp;section=header"/>
 
 ### ⚙️ Suit Specs — Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,cpp,mysql,git,github,vscode&amp;theme=dark" />
 
 <br><br>
 
@@ -94,7 +94,7 @@ languages: Arabic (Native) · English (B2)
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:e62429&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1a1a2e,100:e62429&amp;height=3&amp;section=header"/>
 
 ### 📁 Mission Log — Capstone Projects
 
@@ -168,7 +168,7 @@ Full case studies live on the portfolio 👇
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:e62429&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1a1a2e,100:e62429&amp;height=3&amp;section=header"/>
 
 ### 🏅 Field Record
 
@@ -177,7 +177,7 @@ Full case studies live on the portfolio 👇
 | 🥈 GDG Bootcamp & Competition, 2024 | 5th place finalist — delivered technical solutions under deadline pressure in a multidisciplinary team |
 | 🎓 Student Coordinator (Volunteer) — Benha University, 2024–Present | Managing oral exam logistics for 30+ students; communication bridge between professors and students |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:e62429&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1a1a2e,100:e62429&amp;height=3&amp;section=header"/>
 
 ### 📡 Contact HQ
 
@@ -189,19 +189,19 @@ Full case studies live on the portfolio 👇
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SherifAzb&show_icons=true&theme=radical&hide_border=true&title_color=e62429&icon_color=e62429&text_color=ffffff&bg_color=1a1a2e" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SherifAzb&theme=radical&hide_border=true&background=1a1a2e&ring=e62429&fire=e62429&currStreakLabel=e62429" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SherifAzb&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;title_color=e62429&amp;icon_color=e62429&amp;text_color=ffffff&amp;bg_color=1a1a2e" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SherifAzb&amp;theme=radical&amp;hide_border=true&amp;background=1a1a2e&amp;ring=e62429&amp;fire=e62429&amp;currStreakLabel=e62429" height="165"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SherifAzb&theme=redical&hide_border=true&bg_color=1a1a2e&color=e62429&line=e62429&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SherifAzb&amp;theme=radical&amp;hide_border=true&amp;bg_color=1a1a2e&amp;color=e62429&amp;line=e62429&amp;point=ffffff" width="90%"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e62429,100:1a1a2e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:e62429,100:1a1a2e&amp;height=120&amp;section=footer"/>
 </div>
 
 <p align="center">
