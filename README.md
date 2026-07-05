@@ -362,6 +362,6 @@ timeline
 
 <h3>⚡ <i>"With great data comes great responsibility."</i> ⚡</h3>
 
-<sub>Built with ❤️ and way too much DAX · <a href="#top">Back to top ↑</a></sub>
+<sub>Built with مجهود and way too much DAX · <a href="#top">Back to top ↑</a></sub>
 
 </div>
