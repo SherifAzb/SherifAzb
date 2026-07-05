@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e62429,100:1a1a2e&height=230&section=header&text=SHERIF%20AYMAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=With%20great%20power%20comes%20great%20responsibility&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e62429,100:1a1a2e&height=230&section=header&text=SHERIF%20AYMAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=With%20great%20data%20comes%20great%20responsibility&descAlignY=52&descSize=18"/>
 
 <a href="https://github.com/SherifAzb">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=E62429&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+CS+%26+AI+Student;Turning+chaos+into+clarity%2C+one+dashboard+at+a+time;Python+%7C+Power+BI+%7C+DAX+%7C+Star+Schema;Built+an+RFM+model+that+actually+segments+customers;Always+learning.+Always+leveling+up." alt="Typing SVG" />
