@@ -48,7 +48,7 @@
 Since then I've been on a single mission: **turn raw, chaotic data into insights that actually drive decisions.**
 I went from cleaning that one sheet → to writing my own **RFM segmentation model in Python from scratch** — because eventually the dashboards weren't enough; I needed to understand what was happening *underneath* them.
 
-Currently in my **2nd year** of **Computer Science & Artificial Intelligence** at **Benha University** (`GPA 3.77 / 4.00`), self-training across Python, Power BI, ETL, and data modeling — one industry-style project at a time.
+Currently in my **3rd year** of **Computer Science & Artificial Intelligence** at **Benha University** (`GPA 3.7 / 4.00`), self-training across Python, Power BI, ETL, and data modeling — one industry-style project at a time.
 
 ```yaml
 👤 name:       Sherif Ayman
