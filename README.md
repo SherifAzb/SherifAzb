@@ -20,7 +20,7 @@
 <p>
   <a href="https://linkedin.com/in/sherifazb"><img src="https://komarev.com/ghpvc/?username=SherifAzb&style=for-the-badge&color=e62429&label=PROFILE+VISITS"/></a>
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-0d1117?style=for-the-badge&labelColor=e62429&logo=briefcase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPA-3.77%2F4.00-0d1117?style=for-the-badge&labelColor=e62429&logo=googlescholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPA-3.7%2F4.00-0d1117?style=for-the-badge&labelColor=e62429&logo=googlescholar&logoColor=white"/>
   <img src="https://img.shields.io/badge/LOCATION-Benha%2C%20Egypt-0d1117?style=for-the-badge&labelColor=e62429&logo=googlemaps&logoColor=white"/>
 </p>
 
@@ -54,7 +54,7 @@ Currently in my **3rd year** of **Computer Science & Artificial Intelligence** a
 👤 name:       Sherif Ayman
 🎯 role:       Data Analyst (in training)
 🎓 education:  B.Sc. Computer Science & AI — Benha University (Expected 2028)
-📊 gpa:        3.77 / 4.00
+📊 gpa:        3.7 / 4.00
 📍 location:   Benha, Egypt
 🚀 status:     Open to Data Analyst internships (remote / hybrid / on-site)
 🧠 stack:      Python · Power BI · DAX · SQL · Excel · Star Schema
